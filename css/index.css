@@ -1,0 +1,21 @@
+body{
+    background-color: white;
+    font-family: 'Brush Script MT', cursive;
+}
+.hello-card {
+    display: block;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    width: 700px;
+    margin: 0px auto;
+    background-color: rgba(17, 14, 14, 0.2);
+    backdrop-filter: blur(5px);
+    border-radius: 1rem;
+    margin-top: 12%;
+  }
+  .hello-card h1{
+    padding-top: 15%;
+    color: red;
+  }
+  
